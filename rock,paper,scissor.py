@@ -1,4 +1,4 @@
-print("Welcome to Rock ,Paper, Scissors!")
+print("Welcome to Rock ,Paper, Scissors game!")
 print("Lets Begin ...")
 name1 = input("Player 1:What's your name?")
 name2 = input("Player 2:What's your name?")
